@@ -1,0 +1,47 @@
+# ==============================
+# Python cache and bytecode
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==============================
+# Jupyter notebooks
+# ==============================
+.ipynb_checkpoints/
+src/EDA_Ahemdabad.ipynb
+src/EDA-ahm-2.ipynb
+src/EDA-AHM-3.ipynb
+# Keep only the final EDA notebook
+# src/EDA-Ahm-Final.ipynb
+
+# ==============================
+# Data files (large or raw)
+# ==============================
+Data/*.csv
+Data/*.txt
+Data/*.json
+
+# ==============================
+# Browser drivers / binaries
+# ==============================
+geckodriver_latest/
+*.exe
+*.bin
+
+# ==============================
+# OS / Editor artifacts
+# ==============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ==============================
+# Logs / Temporary outputs
+# ==============================
+*.log
+*.tmp
+*.bak

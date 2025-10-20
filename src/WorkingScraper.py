@@ -13,7 +13,7 @@ import time
 
 
 # Using gecko 0.36.0 for the firefox
-service = Service(executable_path="/home/parth-kothari/Documents/Deep_learning_folder/Scrape_Housing_data/geckodriver_latest/geckodriver")
+service = Service(executable_path="/home/User/Documents/Deep_learning_folder/Scrape_Housing_data/geckodriver_latest/geckodriver")
 driver = webdriver.Firefox(service=service)
 
 

@@ -1,5 +1,5 @@
 url2 = "https://www.realestateindia.com/ahmedabad-property/new-projects.htm"
-path_to_file = "/home/parth-kothari/Documents/Deep_learning_folder/Scrape_Housing_data/"
+path_to_file = "/home/User/Documents/Deep_learning_folder/Scrape_Housing_data/"
 
 
 from selenium import webdriver

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 url1 = "https://www.realestateindia.com/ahmedabad-property/new-projects.htm"
 url2 = "https://www.scrapethissite.com/pages/simple/"
-path_to_file = "/home/parth-kothari/Documents/Deep_learning_folder/Scrape_Housing_data/"
+path_to_file = "/home/user/Documents/Deep_learning_folder/Scrape_Housing_data/"
 
 mode = "scrape" # mode = extract/scrape/""
 
